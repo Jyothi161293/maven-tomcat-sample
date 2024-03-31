@@ -74,6 +74,7 @@
     <form action="#">
       <input type="text" name="name" placeholder="Your Name" required>
       <input type="email" name="email" placeholder="Your Email" required>
+      <input type="interests" name="interests" placeholder="Your Interests" required>
       <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
       <input type="submit" value="Send Message">
     </form>
